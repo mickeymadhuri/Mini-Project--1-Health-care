@@ -30,5 +30,11 @@ A Healthcare Analytics dataset is used to analyze patient care, hospital operati
 4.  Business insights and recommendations based on the data. 
 5.  Project documentation and summary report
 
+#Benefits
+1.  Improve patient care and satisfaction.
+2.  Reduce readmission rates and operational costs.
+3.  Optimize resource allocation and staffing.
+4.  Enhance financial planning and revenue management.
+
 
 
