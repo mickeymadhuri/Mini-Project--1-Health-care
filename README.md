@@ -1,6 +1,8 @@
 # Mini-Project--1-Health-care
 A Healthcare Analytics dataset is used to analyze patient care, hospital operations, treatment effectiveness, costs, and healthcare outcomes.
-<img width="1094" height="733" alt="Screenshot 2026-07-01 212628" src="https://github.com/user-attachments/assets/356bb3be-1f08-49d6-a167-42ed460b0013" />   	#Business Objectives
+<img width="942" height="623" alt="Screenshot 2026-07-03 161006" src="https://github.com/user-attachments/assets/0ff2c836-b70c-4100-8ded-459729f658a8" />
+
+   	#Business Objectives
 1.	Improve Patient Outcomes.
 2.	Optimize Hospital Operations
 3.	Increase Revenue and financials performance.
