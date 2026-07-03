@@ -2,7 +2,7 @@
 A Healthcare Analytics dataset is used to analyze patient care, hospital operations, treatment effectiveness, costs, and healthcare outcomes.
 <img width="942" height="623" alt="Screenshot 2026-07-03 161006" src="https://github.com/user-attachments/assets/0ff2c836-b70c-4100-8ded-459729f658a8" />
 
-   	#Business Objectives
+#Business Objectives
 1.	Improve Patient Outcomes.
 2.	Optimize Hospital Operations
 3.	Increase Revenue and financials performance.
@@ -12,14 +12,14 @@ A Healthcare Analytics dataset is used to analyze patient care, hospital operati
 7.	Track the KPIs Readmission rate (%), Average length of stay, Patient satisfaction Score, Total revenue, Average Treatment Cost, Insurance coverage rate, follow up compliance rate and treatment success rate.
 
 #Functional Requirements
-1.	Data Import and from excel/CSV and handling missing values duplicates.
-2.	Data cleaning and transforming using Power Query.
+1.	 Data Import and from excel/CSV and handling missing values duplicates.
+2.	 Data cleaning and transforming using Power Query.
 3.  Patient requirement and financial analysis
-4. 	Patient satisfaction requirements, calculation and analysis.
+4.  Patient satisfaction requirements, calculation and analysis.
 5.  PIs of Total Revenue, Average Bill Amount, Insurance Coverage% and Revenue by Department 
-6. 	Dashboard Creation by using executive summary and patient analysis.
+6.  Dashboard Creation by using executive summary and patient analysis.
 
-#Tools Uesd
+# Tools Uesd
 1.  Microsoft Excel – Data storage, cleaning, and preparation.
 2.  Power BI – Data visualization and interactive dashboard creation.
 3.  Power Query – Data transformation and preprocessing.
